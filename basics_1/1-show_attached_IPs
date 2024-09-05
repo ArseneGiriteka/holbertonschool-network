@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+#this script list all active ips on this computer
+hostname -I
+hostname -i
