@@ -1,0 +1,3 @@
+#!/usr/bin/env bash
+#let s make a port listening
+nc -l -p 98 -s 127.0.0.2
